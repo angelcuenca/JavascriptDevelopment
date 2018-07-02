@@ -1,2 +1,2 @@
 # JavascriptDevelopment
-Project created to implement the Javascript features.
+Project created to implement several Javascript features.

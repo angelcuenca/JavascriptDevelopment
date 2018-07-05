@@ -1,6 +1,6 @@
 # JavascriptDevelopment
 Project created to implement several Javascript features.
 
-* Package Management (Node)
+* Package Management (Node and npm)
 * Web Server (Express)
-* Automation
+* Automation (npm Scripts)

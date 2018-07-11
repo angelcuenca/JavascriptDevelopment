@@ -5,4 +5,4 @@ Project created to implement several Javascript features.
 * Web Server (Express)
 * Automation (npm Scripts)
 * Transpiling (Babel)
-* Bundling (Webpack)
+* Bundler (Webpack)

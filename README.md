@@ -4,5 +4,6 @@ Project created to implement several Javascript features.
 * Package Management (Node and npm)
 * Web Server (Express)
 * Automation (npm Scripts)
-* Transpiling (Babel)
+* Transpiler (Babel)
 * Bundler (Webpack)
+* Linter (ESLint)

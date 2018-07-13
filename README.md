@@ -7,3 +7,4 @@ Project created to implement several Javascript features.
 * Transpiler (Babel)
 * Bundler (Webpack)
 * Linter (ESLint)
+* Testing (Framework: Mocha, Assertion: Chai, Libraries: jsdom)

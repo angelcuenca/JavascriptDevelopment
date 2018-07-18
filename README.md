@@ -8,3 +8,4 @@ Project created to implement several Javascript features.
 * Bundler (Webpack)
 * Linter (ESLint)
 * Testing (Framework: Mocha, Assertion: Chai, Libraries: JSDOM)
+* Continuos Integration (Travis)

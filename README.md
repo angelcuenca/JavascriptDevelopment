@@ -9,4 +9,5 @@ Project created to implement several Javascript features.
 * Linter (ESLint)
 * Testing (Framework: Mocha, Assertion: Chai, Libraries: JSDOM)
 * Continuos Integration (Travis)
-* HTTP Call (Fetch)
+* HTTP Calls (Fetch)
+* Mocking HTTP Calls (JSON Schema Faker, JSON Server)

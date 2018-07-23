@@ -1,4 +1,4 @@
-# JavascriptDevelopment
+# Javascript Development
 Project created to implement several Javascript features.
 
 * Package Management (Node and npm)

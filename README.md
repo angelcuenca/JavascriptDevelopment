@@ -11,4 +11,5 @@ Project created to implement several Javascript features.
 * Continuos Integration (Travis)
 * HTTP Calls (Fetch)
 * Mocking HTTP Calls (JSON Schema Faker, JSON Server)
-* Production Build (Minification, Webpack, Error logging, Bundle Splitting)
+* Production Build (Minification, Webpack, Error logging: TrackJS, Bundle Splitting)
+* Production Deployment (API: Heroku, UI: Surge)

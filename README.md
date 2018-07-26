@@ -1,5 +1,5 @@
 # Javascript Development
-Project created to implement several Javascript features.
+Project created to implement several Javascript features. For example:
 
 * Package Management (Node and npm)
 * Web Server (Express)
